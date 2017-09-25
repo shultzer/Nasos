@@ -1,0 +1,14 @@
+{
+    "name": "_www/parser",
+    "authors": [
+        {
+            "name": "Sergei",
+            "email": "skorohods@mail.ru"
+        }
+    ],
+    "require": {
+        "electrolinux/phpquery": "^0.9.6",
+        "symfony/var-dumper": "^3.2",
+        "phpexcel/phpexcel": "^1.7"
+    }
+}
